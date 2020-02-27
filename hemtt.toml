@@ -1,0 +1,13 @@
+name = "ZEN"
+prefix = "zen"
+author = "ZEN Dev Team"
+mainprefix = "x"
+sigversion = 3
+version = "1.0.0" # NB: this is not the real version number. We use git tags.
+reuse_private_key = false
+files = [
+    "mod.cpp",
+    "*.paa",
+    "LICENSE"
+]
+include = ["./include"]

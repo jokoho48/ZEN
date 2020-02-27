@@ -1,4 +1,6 @@
 release/*
+releases/*
+keys/*
 tools/temp
 *.cache
 *.pbo
